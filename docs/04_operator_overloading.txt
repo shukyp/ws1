@@ -1,0 +1,11 @@
+
+
+// links to stuff that relates Operator Overloading
+// -----------------------------------------------------
+//https://en.cppreference.com/w/cpp/language/operators
+//https://docs.microsoft.com/en-us/cpp/cpp/operator-overloading?view=msvc-160
+//https://www3.ntu.edu.sg/home/ehchua/programming/cpp/cp7_OperatorOverloading.html
+
+
+
+

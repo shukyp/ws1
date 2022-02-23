@@ -1,0 +1,83 @@
+// $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+//
+//	Language evolution 
+//	---------------------
+//	https://en.cppreference.com/w/
+//
+//	C++98		https://en.wikipedia.org/wiki/C%2B%2B#Standardization
+//				https://en.cppreference.com/w/
+//	
+//	C++03		https://en.wikipedia.org/wiki/C%2B%2B03
+//
+//	C++11		https://en.wikipedia.org/wiki/C%2B%2B11
+//				https://en.cppreference.com/w/cpp/11
+//
+//	C++14		https://en.wikipedia.org/wiki/C%2B%2B14
+//				https://en.cppreference.com/w/cpp/14
+//
+//	C++17		https://en.wikipedia.org/wiki/C%2B%2B17
+//				https://en.cppreference.com/w/cpp/17
+//
+//	C++20		https://en.wikipedia.org/wiki/C%2B%2B20
+//				https://en.cppreference.com/w/cpp/20
+//
+//	C++23		https://en.wikipedia.org/wiki/C%2B%2B23
+//				https://en.cppreference.com/w/cpp/23
+//
+//	modern-cpp-features
+//	https://github.com/AnthonyCalandra/modern-cpp-features
+//
+//
+//
+//
+//	Language regerences
+//	-----------------------
+//
+//	http://www.cplusplus.com/
+//
+//	https://en.cppreference.com/w/
+//
+//
+//
+//
+//	Move Semantics
+//	------------------
+//	
+//	What is move semantics?
+//	https://stackoverflow.com/questions/3106110/what-is-move-semantics
+//
+//	Rule of three (C++ programming) ... and Rule of Five
+//	https://en.wikipedia.org/wiki/Rule_of_three_%28C++_programming%29
+//
+//	The rule of three/five/zero
+//	https://en.cppreference.com/w/cpp/language/rule_of_three
+//
+//	Move assignment operator
+//	https://en.cppreference.com/w/cpp/language/move_assignment
+//
+//	std::move
+//	https://www.learncpp.com/cpp-tutorial/stdmove/#:~:text=In%20C%2B%2B11%2C%20std,defined%20in%20the%20utility%20header.&text=But%20it's%20much%20more%20efficient%20about%20it.
+//
+//	when to use move in function calls [duplicate]
+//	https://stackoverflow.com/questions/55865219/when-to-use-move-in-function-calls
+//	
+//	lvalue to rvalue implicit conversion
+//	https://stackoverflow.com/questions/20850536/lvalue-to-rvalue-implicit-conversion
+//
+//	Move constructors
+//	https://en.cppreference.com/w/cpp/language/move_constructor
+//
+//
+//
+//	links to stuff that relate Operator Overloading
+// -----------------------------------------------------
+//	https://en.cppreference.com/w/cpp/language/operators
+//	https://docs.microsoft.com/en-us/cpp/cpp/operator-overloading?view=msvc-160
+//	https://www3.ntu.edu.sg/home/ehchua/programming/cpp/cp7_OperatorOverloading.html
+//
+//
+//
+//	
+//
+//
+
