@@ -6,5 +6,6 @@
 #include <mutex>
 #include <queue>
 
+#define B_SOME_VAL 100
 
 #endif // B_H
