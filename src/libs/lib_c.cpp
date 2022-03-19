@@ -29,5 +29,7 @@ void lib_c(void)
 
     std::cout << "The day is: " << day << std::endl;
     std::cout << "The department is: " << (int)department << std::endl;
+	 
+	 std::cout << "The new FETAURE is done" << std::endl;
 }
 
